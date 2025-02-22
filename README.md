@@ -1,10 +1,10 @@
-![Black Hole Animation](https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014132/BHW_Disk_and_Corona.gif)
+![Black Hole Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJpZGtsamJlMmtncWN0a3FuNHkyeWoya2dseW9iMXhqazYyeTB2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/FRF49gttE3c4g7Gx4B/giphy.gif)
 
 # 🌌 Bhaskar Singh Rawat  
 
 **Physics Graduate | High-Energy Physics & Astrophysics**  
 🎓 Hemvati Nandan Bahuguna Garhwal University  
-🔬 Specializing in **Astrophysics,High-Energy Physics**  
+🔬 Specializing in **Astrophysics, High-Energy Physics**  
 📚 Research Interests:  
 - **Theoretical Celestial Dynamics**  
 - **Non-Hermitian Quantum Mechanics**  
@@ -15,13 +15,12 @@
 
 ### 🛠️ Skills & Tools  
 🖥️ **Programming:**  Mathematica, Python, LaTeX  
-📊 **Scientific Computing:** NumPy, SciPy, Mathematica  
 📜 **Research Writing:** LaTeX  
 
 ---
 
-### 📖 Recent Research & Work  
-👉 Potential analysis of photons around SBH in SBR graviy.   
+### 📖 Recently completed Research & Work  
+👉 Potential analysis of photons around Schwarzschild Black Holes in SBR graviy.   
 👉 Prelimary discovery of asteroid using PS1 and PS2 type images.   
 👉 Quantum Analysis Of 1-D Diatomic Systems With Complex Morse Potential.  
 
@@ -34,6 +33,6 @@
 
 ---
 
-### 📫 Connect with Me  
-🔗 [LinkedIn](http://www.linkedin.com/in/bhaskar-singh-rawat) | 📝 [Blogs](https://medium.com/@bhaskarsinghrawat20)  
+### 📫 Connect with Me   
+📧[Email](bhaskarsinghrawat20@gmail.com) | 🔗 [LinkedIn](http://www.linkedin.com/in/bhaskar-singh-rawat) | 📝 [Blogs](https://medium.com/@bhaskarsinghrawat20)  
 
