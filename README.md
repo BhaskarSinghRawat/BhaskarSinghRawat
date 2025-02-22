@@ -1,13 +1,16 @@
 <div align="center">
-  <img src="" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/BhaskarSinghRawat/BhaskarSinghRawat/blob/14138c3a798de38c3042ee0e5bd35e5bc096bf69/Images/Welcome.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
+
+My name is **Bhaskar Singh Rawat**, an **Physics enthusiats**.💡 Here, you'll find a collection of my projects with their codes. 
 </div>
 
-# 🌌 Bhaskar Singh Rawat  
+---
 
-**Physics Graduate | High-Energy Physics & Astrophysics**  
+### 🚀 About me
+**Pursuing a Master’s in Physics | Loves Theoretical Physics**  
 🎓 Hemvati Nandan Bahuguna Garhwal University  
-🔬 Specializing in **Astrophysics, High-Energy Physics**  
+🌌 Specializing in **Astrophysics, High-Energy Physics**  
 📚 Research Interests:  
 - **Theoretical Celestial Dynamics**  
 - **Non-Hermitian Quantum Mechanics**  
@@ -18,7 +21,7 @@
 
 ### 🛠️ Skills & Tools  
 🖥️ **Programming:**  Mathematica, Python, LaTeX  
-📜 **Research Writing:** LaTeX  
+✍️ **Research Writing:** LaTeX  
 
 ---
 
@@ -38,4 +41,3 @@
 
 ### 📫 Connect with Me   
 📧[Email](bhaskarsinghrawat20@gmail.com) | 🔗 [LinkedIn](http://www.linkedin.com/in/bhaskar-singh-rawat) | 📝 [Blogs](https://medium.com/@bhaskarsinghrawat20)  
-
