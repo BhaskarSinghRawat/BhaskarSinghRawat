@@ -34,7 +34,7 @@ My name is **Bhaskar Singh Rawat**, an **Physics enthusiats**.💡 Here, you'll 
 
 ### 📖 Ongoing Research & Work  
 👉 Finding the correlation between darkmatter and non-hermitian quantum mechanics.   
-👉 Uncoving the chaotic motion of infitesimal mass around a perturbed R4BP.   
+👉 Uncovering the chaotic motion of infitesimal mass around a perturbed R4BP.   
 👉 Analysing Associated gravitational waves with periodic orbits of EMR systems.  
 
 ---
