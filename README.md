@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🌌 Bhaskar Singh Rawat  
 
-<!--
-**BhaskarSinghRawat/BhaskarSinghRawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Physics Graduate | High-Energy Physics & Astrophysics**  
+🎓 Hemvati Nandan Bahuguna Garhwal University  
+🔬 Specializing in **High-Energy Physics, Astrophysics**  
+📚 Research Interests:  
+- **Theoretical Celestial Mechanics** 🛰️  
+- **Non-Hermitian Quantum Mechanics** ⚛️  
+- **General Relativity** 🌠  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools  
+🖥️ **Programming:** Python, MATLAB, LaTeX  
+📊 **Scientific Computing:** NumPy, SciPy, Mathematica  
+📜 **Research Writing:** LaTeX, Markdown  
+
+---
+
+### 📖 Recent Research & Work  
+💡 Exploring non-Hermitian extensions in quantum mechanics  
+🌌 Theoretical approaches to astrophysical systems  
+🖩 General relativistic corrections in celestial mechanics  
+
+---
+
+### 📫 Connect with Me  
+🔗 [LinkedIn](#) | 🏛️ [Google Scholar](#) | 📝 [ResearchGate](#)  
+
+![Theoretical Research](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
