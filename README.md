@@ -1,4 +1,7 @@
-![Black Hole Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJpZGtsamJlMmtncWN0a3FuNHkyeWoya2dseW9iMXhqazYyeTB2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/FRF49gttE3c4g7Gx4B/giphy.gif)
+<div align="center">
+  <img src="" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+</div>
 
 # 🌌 Bhaskar Singh Rawat  
 
