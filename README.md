@@ -2,7 +2,7 @@
   <img src="https://github.com/BhaskarSinghRawat/BhaskarSinghRawat/blob/14138c3a798de38c3042ee0e5bd35e5bc096bf69/Images/Welcome.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
 
-My name is **Bhaskar Singh Rawat**, an **Physics enthusiats**.💡 Here, you'll find a collection of my projects with their codes. 
+My name is **Bhaskar Singh Rawat**, a **Physics enthusiats 💡**. Here, you'll find a collection of my projects with their codes. 
 </div>
 
 ---
